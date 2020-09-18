@@ -1,1 +1,1 @@
-console.log("ts file");
+console.log("Example of Pacakge Import");
